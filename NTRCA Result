@@ -1,0 +1,31 @@
+<fieldset>
+<legend><span style="font-size: 14pt; color: #008000;"><strong> 16th &amp; 15th NTRCA Result Search </strong></span></legend>
+<form action="https://newresultbd.com/Results/ntrca-result.php" method="post" target="_blank">Male
+
+<table style="width: 100%;" border="0px">
+<tbody>
+<tr>
+<td style="width: 50%;"><strong>Roll Number:</strong></td>
+<td style="width: 50%;"><input name="rollno" type="text" placeholder="Roll Number" /></td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Exam:</strong></td>
+<td style="width: 50%;"><select name="exam">
+<option value="15:15th:2018:2">15th NTRCA Exam (Written)</option>
+<option value="16:16th:2019:1">16th NTRCA Exam (Preliminary)</option>
+<option value="15:15th:2018:1">15th NTRCA Exam (Preliminary)</option>
+</select></td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Result By:</strong></td>
+<td style="width: 50%;"><select name="result">
+<option value="newresultbd">NewResultBD.Com</option>
+</select></td>
+</tr>
+</tbody>
+</table>
+<p><input id="yes" name="yes" type="hidden" value="YES" /></p>
+
+<p style="text-align: center;"><input name="submit" type="submit" value="Get Result" /></p>
+</form>
+</fieldset>
