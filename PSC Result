@@ -1,0 +1,15 @@
+<blockquote>
+<form action="https://newresultbd.com/Results/dpe-result.php" method="post" target="_blank">Passing Year: <br />
+<select name="passing_year">
+<option value="2019">2019</option>
+<option value="2018">2019</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+</select><br />
+<br />
+Entar Your Student ID: <br />
+<input name="roll" type="text" value="" /><br />
+<input name="yes" type="hidden" value="YES" /><br />
+[Adsense]<br />
+<input type="submit" value="Submit" /></form>
+</blockquote>
